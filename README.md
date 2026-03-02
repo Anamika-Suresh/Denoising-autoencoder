@@ -1,1 +1,1 @@
-Implementation of denoising autoencoder using mnist dataset.
+Implementation of denoising autoencoder using fashion_mnist dataset.
